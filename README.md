@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Luther_Nguyen)
+![](https://komarev.com/ghpvc/?username=Luther-Nguyen)
 
 <!--
 **Luther-Nguyen/Luther-Nguyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
