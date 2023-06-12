@@ -8,8 +8,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luther-nguyen/)](https://www.linkedin.com/in/luther-nguyen/)
 
 ```java
-import java.util.*;
-
 public class SoftwareEngineer {
   public static void main(String[] args) {
     String name = "Luther Nguyen";
