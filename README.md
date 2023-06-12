@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<!-- Code from https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=Luther-Nguyen&color=238636&label=Profile+Views)
 
 <!--
