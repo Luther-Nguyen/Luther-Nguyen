@@ -2,8 +2,11 @@
 
 <!-- Code from https://github.com/antonkomarev/github-profile-views-counter -->
 ![](https://komarev.com/ghpvc/?username=Luther-Nguyen&color=238636&label=Profile+Views)
+<img src="https://emojis.slackmojis.com/emojis/images/1660853767/60881/meow_attention.gif?1660853767" width="20"/>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luther-nguyen/)](https://www.linkedin.com/in/luther-nguyen/)
+reach me!
+
+[<img src="https://raw.githubusercontent.com/Luther-Nguyen/Luther-Nguyen/master/images/linkedin.png" width="40" align="center" alt="Luther Nguyen's LinkedIn" title="Luther Nguyen on LinkedIn"/>](https://linkedin.com/in/luther-nguyen)
 
 ```java
 public class SoftwareEngineer {
