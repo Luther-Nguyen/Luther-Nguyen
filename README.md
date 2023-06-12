@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=Luther-Nguyen&color=238636&label=Profile+Views)
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Luther-Nguyen)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/Luther-Nguyen)] (https://github.com/Luther-Nguyen)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luther-nguyen/)
 
 <h3>📋 Languages</h3>
