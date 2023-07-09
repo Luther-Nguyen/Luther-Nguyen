@@ -8,18 +8,6 @@ reach me!
 
 [<img src="https://raw.githubusercontent.com/Luther-Nguyen/Luther-Nguyen/master/images/linkedin.png" width="40" align="center" alt="Luther Nguyen's LinkedIn" title="Luther Nguyen on LinkedIn"/>](https://linkedin.com/in/luther-nguyen)
 
-```java
-public class SoftwareEngineer {
-  public static void main(String[] args) {
-    String name = "Luther Nguyen";
-
-    System.out.println("Hello World!");
-    System.out.println("Thank you for visiting " + name + "'s GitHub! :)");
-  }
-}
-
-```
-
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 <h3>📋 Languages</h3>
 
